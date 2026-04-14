@@ -1,0 +1,21 @@
+"Date","Product","Category","Units Sold","Unit Price","Total Sales"
+"2023-01-02","Widget A","Electronics",3,50,150
+"2023-01-03","Widget B","Electronics",5,70,350
+"2023-01-05","Widget C","Home Appliances",1,200,200
+"2023-01-06","Widget D","Clothing",10,30,300
+"2023-01-07","Widget E","Clothing",2,100,200
+"2023-01-09","Widget F","Home Appliances",4,150,600
+"2023-01-10","Widget G","Electronics",6,80,480
+"2023-01-12","Widget H","Clothing",8,40,320
+"2023-01-13","Widget I","Home Appliances",2,250,500
+"2023-01-15","Widget J","Electronics",7,60,420
+"2023-01-16","Widget A","Electronics",5,50,250
+"2023-01-18","Widget B","Electronics",4,70,280
+"2023-01-19","Widget C","Home Appliances",3,200,600
+"2023-01-20","Widget D","Clothing",5,30,150
+"2023-01-22","Widget E","Clothing",1,100,100
+"2023-01-23","Widget F","Home Appliances",6,150,900
+"2023-01-25","Widget G","Electronics",4,80,320
+"2023-01-26","Widget H","Clothing",7,40,280
+"2023-01-27","Widget I","Home Appliances",3,250,750
+"2023-01-29","Widget J","Electronics",8,60,480
